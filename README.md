@@ -1,3 +1,23 @@
+iota's funny sound replacements.
+currently the only sound that is replaced is the mission failed SFX. below is a list of sounds/music I plan to replace
+
+mission failed SFX ✅️ replaced with sega rally championship "game over yeah!"
+gaurd alert theme ❌️ to be replaced with 'it's pizza time' from pizza tower
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+below is the original mod base description 
 # OpenGoal-Mod-Base
 Serves as a base template for openGOAL mods that will be supported via [OG-ModLauncher](https://github.com/OpenGOAL-Mods/OG-ModLauncher).
 
